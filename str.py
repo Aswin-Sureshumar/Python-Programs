@@ -1,0 +1,14 @@
+a="AMM\tA"
+s='Aeiou'
+f='$***&'
+#print(a.capitalize())
+#print(a.center(10,'*'))
+#print(a.encode('rot32','strict'))
+#print(a.endswith("a"))
+#print(a.lstrip('A'))
+t=a.maketrans(s,f)
+#print(a.translate(t))
+#print(a.strip('A'))
+#print(a.zfill(10))
+#print(a.title())
+print(a.expandtabs(2))

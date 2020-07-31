@@ -1,0 +1,12 @@
+a=int(60)
+b=int(13)
+c=a&b
+d=a|b
+e=a^b
+print(c)
+print(d)
+print(e)
+g=b<<2
+print(g)
+h=a>>2
+print(h)

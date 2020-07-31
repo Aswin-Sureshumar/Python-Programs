@@ -1,0 +1,9 @@
+a=int(3)
+b=int(4)
+print("\n a = ",a)
+print("\n b = ",b)
+b=a+b
+a=b-a
+b=b-a
+print("\n After Swapping a = ",a)
+print("\n After Swapping b = ",b)
